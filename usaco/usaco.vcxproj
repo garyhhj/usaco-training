@@ -127,6 +127,14 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="beads.cpp" />
+    <ClCompile Include="friday.cpp" />
+    <ClCompile Include="gift1.cpp" />
+    <ClCompile Include="ride.cpp" />
+    <ClCompile Include="milk2.cpp" />
+    <ClCompile Include="namenum.cpp" />
+    <ClCompile Include="palsquare.cpp" />
+    <ClCompile Include="transform.cpp" />
     <ClCompile Include="test.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
