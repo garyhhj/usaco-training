@@ -42,5 +42,11 @@
     <ClCompile Include="palsquare.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="dualpal.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="barn1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

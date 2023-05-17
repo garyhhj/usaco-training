@@ -64,3 +64,5 @@ int main() {
     fout << totalNumberOfStallBlocker << "\n";
     return 0;
 }
+
+
