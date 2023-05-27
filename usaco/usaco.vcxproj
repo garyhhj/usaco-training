@@ -136,6 +136,15 @@
     <ClCompile Include="palsquare.cpp" />
     <ClCompile Include="dualpal.cpp" />
     <ClCompile Include="barn1.cpp" />
+    <ClCompile Include="crypt1.cpp" />
+    <ClCompile Include="combo.cpp" />
+    <ClCompile Include="skidesign.cpp" />
+    <ClCompile Include="ariprog.cpp" />
+    <ClCompile Include="milk3.cpp" />
+    <ClCompile Include="numtri.cpp" />
+    <ClCompile Include="pprime.cpp" />
+    <ClCompile Include="sprime.cpp" />
+    <ClCompile Include="wormhole.cpp" />
     <ClCompile Include="transform.cpp" />
     <ClCompile Include="test.cpp" />
   </ItemGroup>
