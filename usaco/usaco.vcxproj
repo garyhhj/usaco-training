@@ -143,6 +143,9 @@
     <ClCompile Include="milk3.cpp" />
     <ClCompile Include="numtri.cpp" />
     <ClCompile Include="pprime.cpp" />
+    <ClCompile Include="castle.cpp" />
+    <ClCompile Include="frac1.cpp" />
+    <ClCompile Include="sort3.cpp" />
     <ClCompile Include="sprime.cpp" />
     <ClCompile Include="wormhole.cpp" />
     <ClCompile Include="transform.cpp" />

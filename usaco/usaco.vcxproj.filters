@@ -75,5 +75,14 @@
     <ClCompile Include="sprime.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="castle.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="frac1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="sort3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
