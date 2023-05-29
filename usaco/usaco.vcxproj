@@ -146,6 +146,8 @@
     <ClCompile Include="castle.cpp" />
     <ClCompile Include="frac1.cpp" />
     <ClCompile Include="sort3.cpp" />
+    <ClCompile Include="holstein.cpp" />
+    <ClCompile Include="hamming.cpp" />
     <ClCompile Include="sprime.cpp" />
     <ClCompile Include="wormhole.cpp" />
     <ClCompile Include="transform.cpp" />

@@ -84,5 +84,11 @@
     <ClCompile Include="sort3.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="holstein.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="hamming.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
