@@ -90,5 +90,8 @@
     <ClCompile Include="hamming.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="preface.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
