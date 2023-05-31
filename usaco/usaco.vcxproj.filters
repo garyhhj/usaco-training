@@ -93,5 +93,8 @@
     <ClCompile Include="preface.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="subset.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

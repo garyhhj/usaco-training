@@ -149,6 +149,7 @@
     <ClCompile Include="holstein.cpp" />
     <ClCompile Include="hamming.cpp" />
     <ClCompile Include="preface.cpp" />
+    <ClCompile Include="subset.cpp" />
     <ClCompile Include="sprime.cpp" />
     <ClCompile Include="wormhole.cpp" />
     <ClCompile Include="transform.cpp" />
