@@ -96,5 +96,11 @@
     <ClCompile Include="subset.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="lamps.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="runround.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
