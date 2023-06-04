@@ -108,5 +108,8 @@
     <ClCompile Include="zerosum.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="money.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

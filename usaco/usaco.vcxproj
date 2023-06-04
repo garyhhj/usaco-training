@@ -152,6 +152,7 @@
     <ClCompile Include="lamps.cpp" />
     <ClCompile Include="runround.cpp" />
     <ClCompile Include="prefix.cpp" />
+    <ClCompile Include="money.cpp" />
     <ClCompile Include="zerosum.cpp" />
     <ClCompile Include="subset.cpp" />
     <ClCompile Include="sprime.cpp" />
