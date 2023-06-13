@@ -42,6 +42,8 @@ bool inRange(int x, int y) {
 }
 
 void update(pair<int, int>& e, int& d) {
+
+    //can use two direction arrays for this 
     bool canMove = false;
     if (d == north && inRange(e.first - 1, e.second) && forest[e.first - 1][e.second] != '*') {
         e.first = e.first - 1;
