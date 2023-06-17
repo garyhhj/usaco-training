@@ -114,5 +114,11 @@
     <ClCompile Include="concom.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="nocows.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ttwo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

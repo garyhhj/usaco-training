@@ -154,6 +154,8 @@
     <ClCompile Include="prefix.cpp" />
     <ClCompile Include="money.cpp" />
     <ClCompile Include="concom.cpp" />
+    <ClCompile Include="nocows.cpp" />
+    <ClCompile Include="ttwo.cpp" />
     <ClCompile Include="zerosum.cpp" />
     <ClCompile Include="subset.cpp" />
     <ClCompile Include="sprime.cpp" />
