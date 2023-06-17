@@ -20,6 +20,9 @@
 #include <assert.h>
 #include <climits>
 
+//implementation notes: 
+//you can put both starting nodes into a que and just run 1 dfs
+
 typedef long long ll;
 using namespace std;
 
