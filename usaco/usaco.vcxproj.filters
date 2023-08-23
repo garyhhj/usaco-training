@@ -120,5 +120,8 @@
     <ClCompile Include="ttwo.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="maze1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
