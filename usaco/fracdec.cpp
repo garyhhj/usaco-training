@@ -25,15 +25,6 @@ int n, d;
 ofstream fout("fracdec.out");
 ifstream fin("fracdec.in");
 
-int numDigits(int num) {
-    int res = 0;
-    while (num != 0) {
-        num /= 10;
-        res += 1;
-    }
-    return res;
-}
-
 void print(const string& str) {
     static int count = 0;
     for (int i = 0; i < str.size(); ++i) {
