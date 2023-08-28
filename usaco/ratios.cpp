@@ -50,7 +50,6 @@ int main() {
     ofstream fout("ratios.out");
     ifstream fin("ratios.in");
 
-    cout << "before taking input " << endl;
     for (int i = 0; i < 3; ++i) fin >> targetFeed[i];
     for (int i = 0; i < 3; ++i) fin >> feed1[i];
     for (int i = 0; i < 3; ++i) fin >> feed2[i];
@@ -59,7 +58,6 @@ int main() {
 
     int total = inf;
     int a, b, c;
-    cout << "before main logic" << endl;
     for (int i = 0; i < MAXN; ++i) {
         for (int j = 0; j < MAXN; ++j) {
             for (int k = 0; k < MAXN; ++k) {
@@ -70,7 +68,6 @@ int main() {
             }
         }
     }
-    cout << "after main logic" << endl;
 
     if (total != inf) {
         fout << a << " " << b << " " << c << " ";
